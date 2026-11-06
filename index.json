@@ -1,0 +1,11 @@
+{
+  "org": "kennethreitz",
+  "repo": "omnijson",
+  "versions": [
+    {
+      "commit": "a5890a51a59ad76f78a61f5bf91fa86b784cf694",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:19:57.452818+00:00"
+    }
+  ]
+}
