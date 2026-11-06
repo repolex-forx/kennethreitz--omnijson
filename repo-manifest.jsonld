@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kennethreitz/omnijson/commit/a5890a51a59ad76f78a61f5bf91fa86b784cf694",
       "git:hexsha": "a5890a51a59ad76f78a61f5bf91fa86b784cf694",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kennethreitz/omnijson/commit/04d97b913374984e8e9e97add202e4ff7349b912",
