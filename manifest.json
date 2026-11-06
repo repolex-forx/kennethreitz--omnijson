@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "kennethreitz",
+  "repo": "omnijson",
+  "versions": [
+    {
+      "commit": "a5890a51a59ad76f78a61f5bf91fa86b784cf694",
+      "parsed_at": "2026-11-06T02:17:28.683760+00:00",
+      "filetree": "filetree/a5890a51a59ad76f78a61f5bf91fa86b784cf694.nq.gz",
+      "blobs": [
+        "blob/fcaa30c0e16e22998ae2b647cd1cb15622de2288.nq.gz",
+        "blob/0052fc7a25a63d12fa597683493acd13362f6904.nq.gz",
+        "blob/dc6b0ff4110c9a92bce57bac2216b46e5f4ac7cc.nq.gz",
+        "blob/fd0ff958ca903bfb09016484a0e6b3cc2835ea27.nq.gz",
+        "blob/764ee3c18b0846200639ef1621760bc589c222c0.nq.gz",
+        "blob/f1269f3f0c3fc3d714ec3bb819489073ff5d7043.nq.gz",
+        "blob/210b957a9da4def89b6dbe8bd00aa0adae421902.nq.gz",
+        "blob/9eaaca38568ff000dbcc4e8e2814172be11996dc.nq.gz",
+        "blob/1afc2de0413619b746723b3ee98e1a8df6c8cf50.nq.gz",
+        "blob/4c7a2bc239d42cb40f2b90fcbb2010aac290a60a.nq.gz",
+        "blob/87ad8882482ca02970df711f4aa1039bece45cb9.nq.gz",
+        "blob/8cb051802be3d1a85b619687ea861f8d05517370.nq.gz",
+        "blob/80b40a94d34633a50b43a6def866770e7fb84542.nq.gz",
+        "blob/e11aef497eae23639870ff4ef7d87771d1e3c15b.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/3e36e567f299a83e7710f9b263358f2ff93e603f.nq.gz",
+        "blob/c10c328fc86be4de14a9776afed823cdca133cbb.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
