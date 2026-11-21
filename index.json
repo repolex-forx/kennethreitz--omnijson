@@ -3,6 +3,11 @@
   "repo": "omnijson",
   "versions": [
     {
+      "commit": "2235005d532d8911f67fe430ebaf315c0f122e10",
+      "tag": "v0.1.2",
+      "parsed_at": "2026-11-21T23:22:19.444824+00:00"
+    },
+    {
       "commit": "a5890a51a59ad76f78a61f5bf91fa86b784cf694",
       "tag": "",
       "parsed_at": "2026-11-06T02:19:57.452818+00:00"

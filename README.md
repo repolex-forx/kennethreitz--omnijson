@@ -36,23 +36,34 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── 2235005d532d8911f67fe430ebaf315c0f122e10
+│   │   │   └── chunk-001.nq.gz
 │   │   └── a5890a51a59ad76f78a61f5bf91fa86b784cf694
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 2235005d532d8911f67fe430ebaf315c0f122e10.nq.gz
 │   └── repolex
+│       ├── 2235005d532d8911f67fe430ebaf315c0f122e10
+│       │   └── chunk-001.nq.gz
 │       └── a5890a51a59ad76f78a61f5bf91fa86b784cf694
 │           └── chunk-001.nq.gz
 ├── blob
 │   ├── 0052fc7a25a63d12fa597683493acd13362f6904.nq.gz
+│   ├── 1aa2e2baec6ad50b99db56867131f584410513f3.nq.gz
 │   ├── 1afc2de0413619b746723b3ee98e1a8df6c8cf50.nq.gz
 │   ├── 210b957a9da4def89b6dbe8bd00aa0adae421902.nq.gz
 │   ├── 3e36e567f299a83e7710f9b263358f2ff93e603f.nq.gz
+│   ├── 4201bdff44de56e66045330a06137be58e77b908.nq.gz
 │   ├── 4c7a2bc239d42cb40f2b90fcbb2010aac290a60a.nq.gz
+│   ├── 6fbd617e71313dd71b1b3b46d62313e0e5a89199.nq.gz
 │   ├── 764ee3c18b0846200639ef1621760bc589c222c0.nq.gz
 │   ├── 80b40a94d34633a50b43a6def866770e7fb84542.nq.gz
 │   ├── 87ad8882482ca02970df711f4aa1039bece45cb9.nq.gz
+│   ├── 8b4953786504f3f88894c5bdd4aa5f06b290aa8b.nq.gz
 │   ├── 8cb051802be3d1a85b619687ea861f8d05517370.nq.gz
 │   ├── 9eaaca38568ff000dbcc4e8e2814172be11996dc.nq.gz
 │   ├── c10c328fc86be4de14a9776afed823cdca133cbb.nq.gz
+│   ├── db4402565bfe3710b9bd9bab3a93f9ae1fd52bc6.nq.gz
 │   ├── dc6b0ff4110c9a92bce57bac2216b46e5f4ac7cc.nq.gz
 │   ├── e11aef497eae23639870ff4ef7d87771d1e3c15b.nq.gz
 │   ├── e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz
@@ -63,7 +74,10 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 2235005d532d8911f67fe430ebaf315c0f122e10.nq.gz
 ├── filetree
+│   ├── 2235005d532d8911f67fe430ebaf315c0f122e10.nq.gz
 │   └── a5890a51a59ad76f78a61f5bf91fa86b784cf694.nq.gz
 ├── issue
 │   └── issue.nq.gz
@@ -72,7 +86,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 25 files
+17 directories, 35 files
 ```
 
 | Directory | What it contains |
@@ -93,4 +107,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [kennethreitz/omnijson](https://github.com/kennethreitz/omnijson)
 
 ---
-*Parsed on 2026-11-06 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-21 by [repolex](https://repolex.ai)*
